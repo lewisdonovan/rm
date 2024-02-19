@@ -1,4 +1,4 @@
-name: "Remove File"
+name: "Remove File (node 20 fork)"
 description: |
   Deletes a given file or folder in a cross-platform way. Succeeds even if there is
   no file at the requested path.
